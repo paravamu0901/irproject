@@ -1,0 +1,15 @@
+.navbarMain{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(136, 136, 195);
+    color: white;
+}
+.navbarComponent{
+    padding: 4px 50px;
+    cursor: pointer;
+    width: 50%;
+}
+.navbarComponent:hover{
+    color: antiquewhite;
+    background-color:rgb(173, 173, 250); ;
+}
